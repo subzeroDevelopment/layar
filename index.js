@@ -44,7 +44,7 @@ app.get('/escuelas', function(request, response) {
            "Description":"Institución fuerte, con una planta docente de experiencia y renovada, con los mejores estudiantes, con personal administrativo y manual comprometido.",
            "footnote":"16:00-20:00  Lunes-Viernes"
            },
-           "imageURL":"https://drive.google.com/drive/folders/0Bz4qVMnEIUlpeGh2TGxpUExGNXM"
+           "imageURL":"https://drive.google.com/file/d/0Bz4qVMnEIUlpWGNPb0NoN0FIdjA/view?usp=sharing"
         },
         {
            "id":"cleu",
@@ -59,7 +59,7 @@ app.get('/escuelas', function(request, response) {
            "Description":"El CLEU es una institución educativa, comprometida para la formación de criminólogos-criminalistas profesionales con un alto nivel de preparación.",
            "footnote":"07:00-20:00  Lunes-Sábado"
            },
-           "imageURL":"https://drive.google.com/drive/folders/0Bz4qVMnEIUlpeGh2TGxpUExGNXM"
+           "imageURL":"https://drive.google.com/file/d/0Bz4qVMnEIUlpcnRocm9nb3ZMelU/view?usp=sharing"
         },
         {
            "id":"idiomas",
@@ -75,7 +75,7 @@ app.get('/escuelas', function(request, response) {
               "footnote":"17:00 - 22:00 Lunes-Sábado"
            },
 
-           "imageURL":"https://drive.google.com/drive/folders/0Bz4qVMnEIUlpeGh2TGxpUExGNXM"
+           "imageURL": "https://drive.google.com/file/d/0Bz4qVMnEIUlpZEZBLV9Tc1RlTlU/view?usp=sharing"
         },
 
         {
@@ -92,7 +92,7 @@ app.get('/escuelas', function(request, response) {
               "footnote":"17:00 - 22:00 Lunes-Sábado"
            },
 
-           "imageURL":"https://drive.google.com/drive/folders/0Bz4qVMnEIUlpeGh2TGxpUExGNXM"
+           "imageURL":"https://drive.google.com/file/d/0Bz4qVMnEIUlpRHZlODlNTkpHenc/view?usp=sharing"
         },
 
         {
@@ -108,8 +108,9 @@ app.get('/escuelas', function(request, response) {
               "description":"El Centro Regional de Educación Normal de Oaxaca (CRENO), es una institución de Educación Superior, formadora de Docentes, que ofrece oportunidad de cursar los estudios con grado académico de Licenciatura en Educación Primaria y Educación Física.",
               "footnote":"17:00 - 22:00 Lunes-Viernes"
            },
-
-           "imageURL":"https://drive.google.com/drive/folders/0Bz4qVMnEIUlpeGh2TGxpUExGNXM"
+           
+	     
+		"imageURL":"https://drive.google.com/file/d/0Bz4qVMnEIUlpWUlRNDhNOHJ2Z28/view?usp=sharing"
         },
 
 
@@ -127,7 +128,8 @@ app.get('/escuelas', function(request, response) {
               "footnote":"24 : 24"
            },
 
-           "imageURL":"https://drive.google.com/drive/folders/0Bz4qVMnEIUlpeGh2TGxpUExGNXM"
+           
+		"imageURL":"https://drive.google.com/file/d/0Bz4qVMnEIUlpdHlnNFUxd1NCRkU/view?usp=sharing"
         }
      ],
      "layer":"tecnologiaq9kw",
