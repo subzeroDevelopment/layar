@@ -29,7 +29,8 @@ app.get('/escuelas', function(request, response) {
               "description":"El IT Oaxaca, es una institución pública de educación superior; imparte 9 carreras a nivel licenciatura y 2 a nivel posgrado en las áreas de ciencias sociales y administrativas, e ingeniería.",
               "footnote":"07:00 - 20:00, Lunes - Viernes"
               },
-              "imageURL":""
+              
+		"imageURL":"https://drive.google.com/file/d/0Bz4qVMnEIUlpUUgzMXNrOG1WTWs/view?usp=sharing"
         },
         {
            "id":"medicina",
