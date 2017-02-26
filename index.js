@@ -44,7 +44,7 @@ app.get('/escuelas', function(request, response) {
            "Description":"Institución fuerte, con una planta docente de experiencia y renovada, con los mejores estudiantes, con personal administrativo y manual comprometido.",
            "footnote":"16:00-20:00  Lunes-Viernes"
            },
-           "imageURL":""
+           "imageURL":"https://drive.google.com/drive/folders/0Bz4qVMnEIUlpeGh2TGxpUExGNXM"
         },
         {
            "id":"cleu",
@@ -59,7 +59,7 @@ app.get('/escuelas', function(request, response) {
            "Description":"El CLEU es una institución educativa, comprometida para la formación de criminólogos-criminalistas profesionales con un alto nivel de preparación.",
            "footnote":"07:00-20:00  Lunes-Sábado"
            },
-           "imageURL":""
+           "imageURL":"https://drive.google.com/drive/folders/0Bz4qVMnEIUlpeGh2TGxpUExGNXM"
         },
         {
            "id":"idiomas",
@@ -75,7 +75,7 @@ app.get('/escuelas', function(request, response) {
               "footnote":"17:00 - 22:00 Lunes-Sábado"
            },
 
-           "imageURL":""
+           "imageURL":"https://drive.google.com/drive/folders/0Bz4qVMnEIUlpeGh2TGxpUExGNXM"
         },
 
         {
@@ -92,7 +92,7 @@ app.get('/escuelas', function(request, response) {
               "footnote":"17:00 - 22:00 Lunes-Sábado"
            },
 
-           "imageURL":""
+           "imageURL":"https://drive.google.com/drive/folders/0Bz4qVMnEIUlpeGh2TGxpUExGNXM"
         },
 
         {
@@ -109,25 +109,9 @@ app.get('/escuelas', function(request, response) {
               "footnote":"17:00 - 22:00 Lunes-Viernes"
            },
 
-           "imageURL":""
+           "imageURL":"https://drive.google.com/drive/folders/0Bz4qVMnEIUlpeGh2TGxpUExGNXM"
         },
 
-        {
-           "id":"casa",
-           "anchor":{
-              "geolocation":{
-                 "lat": 17.027421,
-                 "lon": -96.723496
-              }
-           },
-           "text":{
-              "title":"Casa de Peludo",
-              "description":"",
-              "footnote":"17:00 - 22:00 Lunes-Viernes"
-           },
-
-           "imageURL":""
-        },
 
         {
            "id":"miCasa",
@@ -143,41 +127,7 @@ app.get('/escuelas', function(request, response) {
               "footnote":"24 : 24"
            },
 
-           "imageURL":""
-        },
-
-        {
-           "id":"casaOjos",
-           "anchor":{
-              "geolocation":{
-                 "lat": 17.071887,
-                 "lon":  -96.772676
-              }
-           },
-           "text":{
-              "title":"Casa de Omar",
-              "description":"",
-              "footnote":"24 : 24"
-           },
-
-           "imageURL":""
-        },
-
-        {
-           "id":"univas",
-           "anchor":{
-              "geolocation":{
-                 "lat":17.068048,
-                 "lon":-96.727592
-              }
-           },
-           "text":{
-              "title":"Universidad José Vasconcelos",
-              "description":"En la Universidad Vasconcelos compartimos sus ideales de cultura y excelencia académica en un marco de honradez.",
-              "footnote":"17:00 - 22:00 Lunes-Viernes"
-           },
-
-           "imageURL":""
+           "imageURL":"https://drive.google.com/drive/folders/0Bz4qVMnEIUlpeGh2TGxpUExGNXM"
         }
      ],
      "layer":"tecnologiaq9kw",
