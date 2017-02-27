@@ -14,6 +14,7 @@ app.get('/', function(request, response) {
 });
 
 app.get('/escuelas', function(request, response) {
+  console.log("Holas");
   response.send({
      "hotspots":[
         {
