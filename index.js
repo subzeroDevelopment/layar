@@ -31,7 +31,7 @@ app.get('/escuelas', function(request, response) {
               "footnote":"07:00 - 20:00, Lunes - Viernes"
               },
               
-		"imageURL":"https://drive.google.com/file/d/0Bz4qVMnEIUlpUUgzMXNrOG1WTWs/view?usp=sharing"
+		"imageURL":"https://drive.google.com/file/d/0Bz4qVMnEIUlpdXdRWGxONG9EMFE/view?usp=sharing"
         },
         {
            "id":"medicina",
